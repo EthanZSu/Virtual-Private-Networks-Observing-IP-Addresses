@@ -29,7 +29,7 @@
 <p>
 First, a new resource group must be made where a virtual machine will be placed  in.
   <br />
-In the top search bar search: resource group and then in top left click "create".
+In the top search bar search: resource group, and then in top left click "create".
   <br />
   <br />
 Name the new resource group.
