@@ -1,5 +1,27 @@
 # Virtual-Private-Networks-Observing-IP-Addresses
 
+<h2>Technologies Used</h2>
+
+- Microsoft Azure (Virtual Machines)
+- Remote Desktop
+- 
+
+<h2>Operating Systems Used </h2>
+
+- Windows 10 (21H2)
+- 
+
+<h2>Overview of Main Steps</h2>
+
+- Step 1: Make a resource group.
+- Step 2: Make a Windows 10 virtual machine 
+- Step 3: 
+- Step 4: 
+- Step 5: 
+
+<h2>Actions and Observations</h2>
+
+
 <p>
 <img src=""80%" width="70%" alt="Disk Sanitization Steps"/>
 </p>
