@@ -23,7 +23,7 @@
 
 
 <p>
-<img src=""80%" width="70%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/EthanZSu/vpn-and-ips/assets/168872181/cc31898d-d321-4209-a715-cb41763fbf54"80%" width="70%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 First, a new resource group must be made where a virtual machine will be placed  in.
@@ -37,5 +37,9 @@ Also select which subscription account to place the resource group under.
   <br />
 And pick which geographic region you want the resource group in.
   <br />
+  <br />
+Organizational tags are optional.
+  <br />
+Create the resource group.
 </p>
 <br />
