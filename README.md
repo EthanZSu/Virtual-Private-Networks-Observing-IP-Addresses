@@ -4,7 +4,8 @@
 
 - Microsoft Azure (Virtual Machines)
 - Remote Desktop
-- 
+- whatismyipaddress.com
+- ProtonVPN (VPN service)
 
 <h2>Operating Systems Used </h2>
 
