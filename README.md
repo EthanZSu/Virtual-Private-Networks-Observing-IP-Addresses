@@ -91,9 +91,85 @@ Then create the VM.
 <img src="https://github.com/EthanZSu/vpn-and-ips/assets/168872181/5ac8f989-0888-406f-82d6-e3b1589bfb35" height="80%" width="80%" alt="Disk Sanitization Steps"/>  
 </p>
 <p>
-   <br />
+In your Windows computer bottom search bar type: Remote Desktop Connection.
+  <br />
+In the top center search bar search: Virtual Machines.
+  <br />
+Select the Windows VM.
+  <br />
+Copy the Public IP address on the right side into the Remote Desktop Connection & Connect.
+  <br />
+Enter the administrator account credentials for the VM: the username & password.
 </p>
 <br />
+
+
+
+<p>
+<img src="https://github.com/EthanZSu/EthanZSu-azure-network-protocols/assets/168872181/6badce6b-9266-484e-bcda-c518839ca625" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Click "yes" on the pop-up.
+</p>
+<br />
+
+
+
+<p>
+<img src="https://github.com/EthanZSu/EthanZSu-azure-network-protocols/assets/168872181/e5f17491-cd13-4f1f-aae8-e10d06d17f00" height="150%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+In the event you see this pop-up "mtsc.exe - Entry Point Not Found",
+  <br />
+Drag the pop-up to the top right corner & quickly exit it & the remote desktop window.
+  <br />
+If the pop-up is still there, simply click "OK".
+  <br />
+  <br />
+You must then repeat the steps from the previous 2 pictures to use Remote Dektop to access your Windows VM. 
+</p>
+<br />
+
+
+
+<p>
+<img src="https://github.com/EthanZSu/EthanZSu-azure-network-protocols/assets/168872181/53752c9d-3d12-406a-8bd4-afd176f117e7" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Select "No" to all the privacy setting (as none of those features will be needed).
+<br />
+Then accept.
+<br />
+On the right click "yes" to the network pop-up "do you want... your PC to be discoverable by other... devices on this network?"
+</p>
+<br />
+
+
+
+<p>
+<img src="https://github.com/EthanZSu/EthanZSu-azure-network-protocols/assets/168872181/f719dad4-a1e0-4cff-9a3f-64eec8d693f8" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+If there is any Windows promotional pop-up, exit it.
+  <br />
+Decline all Windows offers to sign in & bring your data (because this project is temporary & requires none of that sign-up).
+
+</p>
+<br />
+
+
+
+<p>
+<img src="https://github.com/EthanZSu/EthanZSu-azure-network-protocols/assets/168872181/48fdecf6-a66c-4371-aa08-832fb3aea4bc" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Open Microsoft Edge web browser.
+  <br />
+In the top search bar search "wireshark download" & go to the wireshark.org site.
+</p>
+<br />
+
+
 
 
 
