@@ -1,5 +1,7 @@
 # Virtual-Private-Networks-Observing-IP-Addresses
-
+This tutorial observes how a computer's public IP address can be changed 
+  <br />
+by using either virtual machines (VMs) or virtual private networks (VPNs).
 <h2>Technologies Used</h2>
 
 - Microsoft Azure (Virtual Machines)
@@ -170,7 +172,7 @@ In the top search bar search: whatismyipaddress.com, then open the site.
   <br />
 The website should confirm the geographic region of your VM is the same as where you first set it.
   <br />
-The site of course also confirms the IP address of the VM differs from your PC's. 
+The site of course also confirms the IP address of the VM differs from your computer's. 
 </p>
 <br />
 
