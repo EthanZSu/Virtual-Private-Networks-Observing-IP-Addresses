@@ -84,3 +84,23 @@ Scroll down & confirm you have the appropriate Windows 10/11 license.
 Then create the VM.
 </p>
 <br />
+
+
+
+<p>
+<img src="https://github.com/EthanZSu/vpn-and-ips/assets/168872181/5ac8f989-0888-406f-82d6-e3b1589bfb35" height="80%" width="80%" alt="Disk Sanitization Steps"/>  
+</p>
+<p>
+   <br />
+</p>
+<br />
+
+
+
+<p>
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>  
+</p>
+<p>
+   <br />
+</p>
+<br />
