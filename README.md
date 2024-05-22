@@ -69,7 +69,7 @@ VM architecture x64 will suffice.
 
 
 <p>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/EthanZSu/vpn-and-ips/assets/168872181/e0cd223a-85cf-4f6e-9465-f208d1d3909b" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Select size "2 vcpus" (2 virtual CPU's).
@@ -79,5 +79,8 @@ Set up administrator account info for the VM: the username & password.
 Public inbound ports must allow selected ports, and allow RDP 3389 (for remote desktop to the VM).
   <br />
 Scroll down & confirm you have the appropriate Windows 10/11 license.
+  <br />
+  <br />
+Then create the VM.
 </p>
 <br />
