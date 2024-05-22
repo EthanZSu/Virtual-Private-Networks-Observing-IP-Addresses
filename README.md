@@ -1,7 +1,7 @@
 # Virtual-Private-Networks-Observing-IP-Addresses
 This tutorial observes how a computer's public IP address can be changed 
   <br />
-by using either virtual machines (VMs) or virtual private networks (VPNs).
+by using either Azure virtual machines (VMs) or ProtonVPN (a virtual private network service).
 <h2>Technologies Used</h2>
 
 - Microsoft Azure (Virtual Machines)
