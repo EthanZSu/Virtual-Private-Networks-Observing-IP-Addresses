@@ -95,7 +95,7 @@ In your Windows computer bottom search bar type: Remote Desktop Connection.
   <br />
 In the top center search bar search: Virtual Machines.
   <br />
-Select the Windows VM.
+Select the VM.
   <br />
 Copy the Public IP address on the right side into the Remote Desktop Connection & Connect.
   <br />
@@ -126,7 +126,7 @@ Drag the pop-up to the top right corner & quickly exit it & the remote desktop w
 If the pop-up is still there, simply click "OK".
   <br />
   <br />
-You must then repeat the steps from the previous 2 pictures to use Remote Dektop to access your Windows VM. 
+You must then repeat the steps from the previous 2 pictures to use Remote Dektop to access your VM. 
 </p>
 <br />
 
@@ -152,6 +152,8 @@ On the right click "yes" to the network pop-up "do you want... your PC to be dis
 <p>
 If there is any Windows promotional pop-up, exit it.
   <br />
+Open Microsoft Edge web browser.
+  <br />
 Decline all Windows offers to sign in & bring your data (because this project is temporary & requires none of that sign-up).
 
 </p>
@@ -160,12 +162,15 @@ Decline all Windows offers to sign in & bring your data (because this project is
 
 
 <p>
-<img src="https://github.com/EthanZSu/EthanZSu-azure-network-protocols/assets/168872181/48fdecf6-a66c-4371-aa08-832fb3aea4bc" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/EthanZSu/vpn-and-ips/assets/168872181/9b775f59-63fc-4138-a1fe-d7711160c3bf" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Open Microsoft Edge web browser.
+In the top search bar search: whatismyipaddress.com, then open the site.
   <br />
-In the top search bar search "wireshark download" & go to the wireshark.org site.
+  <br />
+The website should confirm the geographic region of your VM is the same as where you first set it.
+  <br />
+The site of course also confirms the IP address of the VM differs from your PC's. 
 </p>
 <br />
 
