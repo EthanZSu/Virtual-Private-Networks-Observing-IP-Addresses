@@ -44,3 +44,40 @@ Organizational tags are optional.
 Create the resource group.
 </p>
 <br />
+
+
+
+<p>
+<img src="https://github.com/EthanZSu/vpn-and-ips/assets/168872181/b35a234e-e2bd-46c6-8beb-e4648ea4bbe0" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+In the top search bar search: virtual machines, then click "create", then "Azure Virtual Machine".
+  <br />
+  <br />
+For this virtual machine: Select a subsciption account, the resource group just made, & a geographic region different from where your PC is located.
+  <br />
+Name this VM.
+  <br />
+The above redundancy & security settings will suffice.
+  <br />
+The image (VM's operating system) will be Windows 10 Pro, ver. 22H2
+  <br />
+VM architecture x64 will suffice.
+</p>
+<br />
+
+
+
+<p>
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Select size "2 vcpus" (2 virtual CPU's).
+  <br />
+Set up administrator account info for the VM: the username & password.
+  <br />
+Public inbound ports must allow selected ports, and allow RDP 3389 (for remote desktop to the VM).
+  <br />
+Scroll down & confirm you have the appropriate Windows 10/11 license.
+</p>
+<br />
