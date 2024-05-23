@@ -172,7 +172,7 @@ In the top search bar search: whatismyipaddress.com, then open the site.
   <br />
 The website should confirm the geographic region of your VM is the same as where you first set it.
   <br />
-The site of course also confirms the IP address of the VM differs from your computer's. 
+The site of course also confirms the IPv4 address of the VM differs from your computer's. 
 </p>
 <br />
 
@@ -215,6 +215,85 @@ On the Left select: downloads.
 </p>
 <br />
 
+
+
+<p>
+<img src="https://github.com/EthanZSu/vpn-and-ips/assets/168872181/b67100a7-b0cb-4788-9fd5-cc7b0587a374" height="80%" width="80%" alt="Disk Sanitization Steps"/>  
+</p>
+<p>
+Download Windows, Download ProtonVPN.
+   <br />
+Open downloads in file explorer.
+</p>
+<br />
+
+
+
+<p>
+<img src="https://github.com/EthanZSu/vpn-and-ips/assets/168872181/cd41ef2b-3e62-4ca1-ade8-cc65c4b0ea37" height="80%" width="80%" alt="Disk Sanitization Steps"/>  
+</p>
+<p>
+Run the ProtonVPN download, Select "OK" to English
+   <br />
+Select "Next", "Install"
+</p>
+<br />
+
+
+
+<p>
+<img src="https://github.com/EthanZSu/vpn-and-ips/assets/168872181/5813c6f3-38cb-49ec-9dec-7bc7fc54de80" height="80%" width="80%" alt="Disk Sanitization Steps"/>  
+</p>
+<p>
+Select "Automatically close the applications", "Next",
+   <br />
+</p>
+<br />
+
+
+
+<p>
+<img src="https://github.com/EthanZSu/vpn-and-ips/assets/168872181/3844bfc5-caa9-4b94-a399-764985fedd5c" height="80%" width="80%" alt="Disk Sanitization Steps"/>  
+</p>
+<p>
+Select "cancel", "yes", "finish".
+   <br />
+</p>
+<br />
+
+
+
+<p>
+<img src="https://github.com/EthanZSu/vpn-and-ips/assets/168872181/fb90fd63-8a20-4d8b-afa5-052859d0b754" height="80%" width="80%" alt="Disk Sanitization Steps"/>  
+</p>
+<p>
+Exit the file explorer & the web browser window.
+   <br />
+Open the ProtonVPN app on the left, & sign in.
+</p>
+<br />
+
+
+<p>
+<img src="https://github.com/EthanZSu/vpn-and-ips/assets/168872181/4eee3978-f1d6-4545-9ad0-0e76aed01ba0" height="80%" width="80%" alt="Disk Sanitization Steps"/>  
+</p>
+<p>
+You can quick-connect to a VPN server in another region different from  your VM's region.
+   <br />
+Then open Microsoft Edge again & go to whatismyipaddress.com.
+    <br />
+The site confirms the IPv4 address & country of the VPN server used differs from your original VM's. 
+</p>
+<br />
+
+
+<p>
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>  
+</p>
+<p>
+   <br />
+</p>
+<br />
 
 
 <p>
