@@ -271,7 +271,7 @@ Select "cancel", "yes", "finish".
 <p>
 Exit the file explorer & the web browser window.
    <br />
-Open the ProtonVPN app on the left, & sign in.
+Open the ProtonVPN app on the left, sign in, & skip the tour.
 </p>
 <br />
 
