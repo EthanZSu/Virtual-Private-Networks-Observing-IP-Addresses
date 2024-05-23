@@ -209,7 +209,9 @@ You will need to set up an account by providing an email address & a password.
 <img src="https://github.com/EthanZSu/vpn-and-ips/assets/168872181/0607f39f-0465-45a3-8e70-d0392bacf6ab" height="80%" width="80%" alt="Disk Sanitization Steps"/>  
 </p>
 <p>
-Use remote desktop to sign into your VM and sign into your protonvpn account.
+Use remote desktop to sign into your VM.
+  <br />
+Go to protonvpn.com and sign into your protonvpn account.
   <br />
 On the Left select: downloads.
 </p>
@@ -283,15 +285,6 @@ You can quick-connect to a VPN server in another region different from  your VM'
 Then open Microsoft Edge again & go to whatismyipaddress.com.
     <br />
 The site confirms the IPv4 address & country of the VPN server used differs from your original VM's. 
-</p>
-<br />
-
-
-<p>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>  
-</p>
-<p>
-   <br />
 </p>
 <br />
 
