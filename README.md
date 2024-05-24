@@ -26,7 +26,7 @@ by using either Azure virtual machines (VMs) or ProtonVPN (a virtual private net
 
 
 <p>
-<img src="https://github.com/EthanZSu/vpn-and-ips/assets/168872181/7a372e4a-1cf6-4570-9eaa-1646614ac9a7" height="80%" width="80%" alt="Disk Sanitization Steps"/>  
+<img src="https://github.com/EthanZSu/vpn-and-ips/assets/168872181/18e31ec6-ba88-4de3-942d-d68ca24b7376" height="80%" width="80%" alt="Disk Sanitization Steps"/>  
 </p>
 <p>
 You can see your computer's IPv4 address by browsing to whatismyipaddress.com.
