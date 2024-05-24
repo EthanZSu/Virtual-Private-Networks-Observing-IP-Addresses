@@ -16,12 +16,19 @@ by using either Azure virtual machines (VMs) or ProtonVPN (a virtual private net
 
 <h2>Overview of Main Steps</h2>
 - Step 1: On your computer: browse to whatismyipaddress.com.
+  <br />
 - Step 2: Make a resource group.
+  <br />
 - Step 3: Make a Windows 10 VM in a region different from your computer.
+  <br />
 - Step 4: On your VM browse to whatismyipaddress.com.
+  <br />
 - Step 5: Sign up for ProtonVPN.
+  <br />
 - Step 6: Download ProtonVPN to your VM.
+  <br />
 - Step 7: On your VM connect to a VPN server in a region different from your VM.
+  <br />
 - Step 8: Through the VPN, browse to whatismyipaddress.com.
 
 <h2>Actions and Observations</h2>
