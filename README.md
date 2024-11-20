@@ -49,6 +49,10 @@ The site will show your IPv4 address & the region your computer is in.
     <br />
 (I've redacted my IPv4 address, Internet Service Provider, & city location for privacy).
 </p>
+________________________________________________________________________________________________________________________
+<br />
+<br />
+<br />
 <br />
 
 
@@ -74,6 +78,10 @@ Organizational tags are optional.
   <br />
 Create the resource group.
 </p>
+________________________________________________________________________________________________________________________
+<br />
+<br />
+<br />
 <br />
 
 
@@ -96,6 +104,10 @@ The image (VM's operating system) will be Windows 10 Pro, ver. 22H2
   <br />
 VM architecture x64 will suffice.
 </p>
+________________________________________________________________________________________________________________________
+<br />
+<br />
+<br />
 <br />
 
 
@@ -115,6 +127,10 @@ Scroll down & confirm you have the appropriate Windows 10/11 license.
   <br />
 Then create the VM.
 </p>
+________________________________________________________________________________________________________________________
+<br />
+<br />
+<br />
 <br />
 
 
@@ -134,8 +150,11 @@ Copy the Public IP address on the right side into the Remote Desktop Connection 
   <br />
 Enter the administrator account credentials for the VM: the username & password.
 </p>
+________________________________________________________________________________________________________________________
 <br />
-
+<br />
+<br />
+<br />
 
 
 <p>
@@ -144,8 +163,11 @@ Enter the administrator account credentials for the VM: the username & password.
 <p>
 Click "yes" on the pop-up.
 </p>
+________________________________________________________________________________________________________________________
 <br />
-
+<br />
+<br />
+<br />
 
 
 <p>
@@ -161,6 +183,10 @@ If the pop-up is still there, simply click "OK".
   <br />
 You must then repeat the steps from the previous 2 pictures to use Remote Dektop to access your VM. 
 </p>
+________________________________________________________________________________________________________________________
+<br />
+<br />
+<br />
 <br />
 
 
@@ -175,6 +201,10 @@ Then accept.
 <br />
 On the right click "yes" to the network pop-up "do you want... your PC to be discoverable by other... devices on this network?"
 </p>
+________________________________________________________________________________________________________________________
+<br />
+<br />
+<br />
 <br />
 
 
@@ -190,8 +220,11 @@ Open Microsoft Edge web browser.
 Decline all Windows offers to sign in & bring your data (because this project is temporary & requires none of that sign-up).
 
 </p>
+________________________________________________________________________________________________________________________
 <br />
-
+<br />
+<br />
+<br />
 
 
 <p>
@@ -205,8 +238,11 @@ The website should confirm the geographic region of your VM is the same as where
   <br />
 The site of course also confirms the IPv4 address of the VM differs from your computer's. 
 </p>
+________________________________________________________________________________________________________________________
 <br />
-
+<br />
+<br />
+<br />
 
 
 <p>
@@ -222,6 +258,10 @@ On bottom right, select: Get Proton Free (if you want the free version).
   <br />
 Continue with free.
 </p>
+________________________________________________________________________________________________________________________
+<br />
+<br />
+<br />
 <br />
 
 
@@ -233,6 +273,10 @@ Continue with free.
 You will need to set up an account by providing an email address & a password.
    <br />
 </p>
+________________________________________________________________________________________________________________________
+<br />
+<br />
+<br />
 <br />
 
 
@@ -248,6 +292,10 @@ Go to protonvpn.com and sign into your protonvpn account.
   <br />
 On the Left select: downloads.
 </p>
+________________________________________________________________________________________________________________________
+<br />
+<br />
+<br />
 <br />
 
 
@@ -260,8 +308,11 @@ Download Windows, Download ProtonVPN.
    <br />
 Open downloads in file explorer.
 </p>
+________________________________________________________________________________________________________________________
 <br />
-
+<br />
+<br />
+<br />
 
 
 <p>
@@ -272,6 +323,10 @@ Run the ProtonVPN download, Select "OK" to English
    <br />
 Select "Next", "Install"
 </p>
+________________________________________________________________________________________________________________________
+<br />
+<br />
+<br />
 <br />
 
 
@@ -283,6 +338,10 @@ Select "Next", "Install"
 Select "Automatically close the applications", "Next",
    <br />
 </p>
+________________________________________________________________________________________________________________________
+<br />
+<br />
+<br />
 <br />
 
 
@@ -294,6 +353,10 @@ Select "Automatically close the applications", "Next",
 Select "cancel", "yes", "finish".
    <br />
 </p>
+________________________________________________________________________________________________________________________
+<br />
+<br />
+<br />
 <br />
 
 
@@ -309,8 +372,11 @@ Open the ProtonVPN app on the left, sign in, & skip the tour.
   <br />
 You can quick-connect to a VPN server in another region different from  your VM's region.
 </p>
+________________________________________________________________________________________________________________________
 <br />
-
+<br />
+<br />
+<br />
 
 <p>
 <h3>Step 8: Through the VPN, browse to whatismyipaddress.com.</h3>
@@ -321,13 +387,10 @@ Then open Microsoft Edge again & go to whatismyipaddress.com.
     <br />
 The site confirms the IPv4 address & country of the VPN server used differs from your original VM's. 
 </p>
+________________________________________________________________________________________________________________________
+<br />
+<br />
+<br />
 <br />
 
 
-<p>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>  
-</p>
-<p>
-   <br />
-</p>
-<br />
