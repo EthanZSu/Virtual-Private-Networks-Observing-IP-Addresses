@@ -38,6 +38,7 @@ by using either Azure virtual machines (VMs) or ProtonVPN (a virtual private net
 
 
 <p>
+<h3>Step 1: On your computer: browse to whatismyipaddress.com.</h3>
 <img src="https://github.com/EthanZSu/vpn-and-ips/assets/168872181/18e31ec6-ba88-4de3-942d-d68ca24b7376" height="80%" width="80%" alt="Disk Sanitization Steps"/>  
 </p>
 <p>
