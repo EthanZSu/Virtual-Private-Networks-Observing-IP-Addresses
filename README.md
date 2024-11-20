@@ -13,8 +13,8 @@ by using either Azure virtual machines (VMs) or ProtonVPN (a virtual private net
 
 <h2>Operating Systems Used </h2>
 
-- Windows 10 (21H2)
-- 
+- Windows 10 (22H2)
+  
 
 <h2>Overview of Main Steps</h2>
 
