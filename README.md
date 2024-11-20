@@ -1,4 +1,6 @@
-# Virtual-Private-Networks-Observing-IP-Addresses
+# Virtual Private Networks & Observing IP Addresses
+<img src="https://github.com/user-attachments/assets/0d46a769-21e6-49b4-acf6-a37af8fd23df" height="80%" width="80%" alt="Disk Sanitization Steps"/>  
+
 This tutorial observes how a computer's public IPv4 address can be changed 
   <br />
 by using either Azure virtual machines (VMs) or ProtonVPN (a virtual private network service).
@@ -15,6 +17,7 @@ by using either Azure virtual machines (VMs) or ProtonVPN (a virtual private net
 - 
 
 <h2>Overview of Main Steps</h2>
+
 - Step 1: On your computer: browse to whatismyipaddress.com.
   <br />
 - Step 2: Make a resource group.
